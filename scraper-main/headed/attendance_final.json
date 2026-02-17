@@ -1,0 +1,35 @@
+{
+  "monthly": [
+    {
+      "month": "Month: Dec (20 Days)",
+      "perc": "80.00%",
+      "pres": 80,
+      "total": 100
+    },
+    {
+      "month": "Month: Feb (14 Days)",
+      "perc": "97.14%",
+      "pres": 68,
+      "total": 70
+    },
+    {
+      "month": "Month: Jan (19 Days)",
+      "perc": "100.00%",
+      "pres": 95,
+      "total": 95
+    }
+  ],
+  "overall": "91.70%",
+  "total_p": 243,
+  "total_i": 265,
+  "today": {
+    "posted": true,
+    "hours": 5,
+    "p1": "P",
+    "p2": "P",
+    "p3": "P",
+    "p4": "P",
+    "p5": "P",
+    "found": true
+  }
+}
